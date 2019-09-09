@@ -29,7 +29,9 @@ The team met on 9th of September Monday at 9:30. The team members already examin
 - Decision 3 - User roles for the Use Cases have been discussed by the Team. Finally come to an agreement that new temporary Etg users should be created within Etg domain for the Province to access Dynamics 365 F&O Server maintained by Etg.
   + Action Item 1 - Scrum Master to facilitate and have new users opened 
 
-- Use cases already been given by the Province. The team decided
+- Decision 4 - Use cases already been given by the Province. The team decided that these are also our PBI's.
+  * Action Item 2 - Mesut Boztas to open a n
+  * Action Item 2 - Scrum Master to define PBI's on DevOps environment
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -118,7 +120,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzMyMTI1OCwxNDQ5MzY5NTkyLC05ND
+eyJoaXN0b3J5IjpbLTE3NTk4NjcxMiwxNDQ5MzY5NTkyLC05ND
 EzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MDYzMzAw
 MiwxMDE2NzU0ODJdfQ==
 -->
