@@ -4,24 +4,6 @@
 
 As ETG Consultancy Inc. (from now on stated as "We" or "Etg"), we developed a solution approach before getting to know the rules of Code Challenge for Capital Asset Planning System Modernization (CAPS) Project. We decided to present the Province with two different solutions where one of them would be based on Modern Web Programming stack and the other based on Microsoft Dynamics 365 F&O. In this regard, we prepared a demo project for the sample project given in "Code Challenge.pdf" document using Scrum methodology and modern web stack. In the mean time, we discussed about a Dynamics 365 F&O approach/solution as well (which we didn't implement this solution).
 
-zsdfsfdsdff
-
-
-
-
-
-# Welcome to StackEditPro!
-
-Hi! I'm your first Markdown file in **StackEditPro**. If you want to learn about StackEditPro, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-# About StackEditPro
-StackEditPro (https://stackeditpro.io) is a fork of StackEdit (https://stackedit.io) that offers an extremely agile development cycle along with cutting-edge features.
-If you currently use the original application, you can sync to your data sources and use both web applications with your current workspaces.
-You can also export your workspaces from one and then import them into the other.
-
-# Files
-
-StackEditPro stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
 
@@ -158,5 +140,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwODI2MDYxXX0=
+eyJoaXN0b3J5IjpbLTI0NDg0MDg5OF19
 -->
