@@ -16,6 +16,7 @@ The roles of the team has been decided as;
 The team has decided to get together everyday twice for Daily Scrum meetings because of the time constraint. Team also has decided to have a Sprint Review Meeting on 9th of September Monday morning at 9:30 PST (right after the Code Challenge issued and the team had a chance to study Code Challenge requirements)
 
 ## "Code Challenge" Sprint Review Meeting
+The team met on 9th of September Monday at 9:30 and de
 
 
 ## "Code Challenge" Daily Scrum Meeting - 1
@@ -105,6 +106,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2OD
-gzMzQ1MiwxMjgwNjMzMDAyLDEwMTY3NTQ4Ml19
+eyJoaXN0b3J5IjpbLTM2MDk2NDM3NCwtOTQxMzkwMjk5LDUzMD
+EyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMTAxNjc1NDgy
+XX0=
 -->
