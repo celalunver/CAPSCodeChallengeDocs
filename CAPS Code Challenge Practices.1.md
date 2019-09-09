@@ -2,7 +2,7 @@
 
 ## Pre "Code Challenge" Discussions
 
-As ETG Consultancy Inc. (from now on stated as "We" or "Etg"), we developed a solution approach before getting to know the rules of Code Challenge for Capital Asset Planning System Modernization (CAPS) Project. We decided to present the Province with two different solutions where one of them would be based on Modern Web Programming stack and the other based on Microsoft Dynamics 365 F&O. In this regard, we prepared a demo project for the sample project given in "Code Challenge.pdf" document using Scrum methodology and modern web stack. In the mean time, we discussed about a Dynamics 365 F&O approach/solution as well (which we didn't implement this solution).
+As ETG Consultancy Inc. (from now on stated as "We" or "Etg"), we developed a solution approach before getting to know the rules of Code Challenge for Capital Asset Planning System Modernization (CAPS) Project. We decided to present the Province with two different solutions where one of them would be based on Modern Web Programming stack and the other based on Microsoft Dynamics 365 F&O. In this regard, we prepared a demo project for the sample project given in "Code Challenge.pdf" document using Scrum methodology and modern web stack (Vue.js, postgresql, .net and github). In the mean time, we discussed about a Dynamics 365 F&O approach/solution as well (which we didn't implement this solution).
 
 The roles of the team has been decided as;
 - Selami Kul - Product Owner
@@ -11,7 +11,9 @@ The roles of the team has been decided as;
 - Enver Yilmaz - Development Team - Backend, Dynamics
 - Ender Yilmaz - Development Team - Backend, Dynamics
 - Salim Serdar - Development Team - Frontend
-- Tufan Bilge 
+- Tufan Bilge - Development Team - Backend, Frontend
+
+
 
 ## Switch to another file
 
@@ -144,5 +146,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjc1NDgyXX0=
+eyJoaXN0b3J5IjpbLTEyNDE5NTA2OTUsMTAxNjc1NDgyXX0=
 -->
