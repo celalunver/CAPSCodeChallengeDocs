@@ -18,7 +18,7 @@ The team has decided to get together everyday twice for Daily Scrum meetings bec
 ## "Code Challenge" Sprint Review Meeting
 The team met on 9th of September Monday at 9:30. The team members already examined the issued Readme.md file for the Code Challenge by the Province. The team has concluded the following decisions and the related action items;
 
-- Decision 1 - The solution requested by the Province is a Dynamics based solution. So, the team decided to issue only one solution based on Dynamics 365 F&O. The team will use Microsoft Teams environment for communication  and meeting scheduling and DevOps for code implementation using Scrum methodology
+- Decision 1 - The solution requested by the Province is a Dynamics based solution. So, the team decided to issue only one solution based on Dynamics 365 F&O. The team will use Microsoft Teams environment for communication, file sharing and meeting scheduling and DevOps for Product Backlog and tasks management and code implementation using Scrum methodology
 
 - Decision 2 - The team for the Code Challenge has been formed as follows;
   * Product Owner - Selami Kul
@@ -125,7 +125,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4OTM2MzA5LC03MTY0Njk3ODMsLTE4ND
-I1NDkzMiwxNDQ5MzY5NTkyLC05NDEzOTAyOTksNTMwMTIxMTYs
-LTE1Njg4MzM0NTIsMTI4MDYzMzAwMiwxMDE2NzU0ODJdfQ==
+eyJoaXN0b3J5IjpbLTMxMzM5MDA1NiwtNzE2NDY5NzgzLC0xOD
+QyNTQ5MzIsMTQ0OTM2OTU5MiwtOTQxMzkwMjk5LDUzMDEyMTE2
+LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMTAxNjc1NDgyXX0=
 -->
