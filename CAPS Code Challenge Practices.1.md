@@ -3,11 +3,11 @@
 ## Pre "Code Challenge" Discussions
 
 As ETG Consultancy Inc. (from now on stated as "We" or "Etg"), we developed a solution approach before getting to know the rules of Code Challenge for Capital Asset Planning System Modernization (CAPS) Project. We decided to present the Province with two different solutions where one of them would be based on Modern Web Programming stack and the other based on Microsoft Dynamics 365 F&O. In this regard, we prepared a demo project for the sample project given in "Code Challenge.pdf" document using Scrum methodology and modern web stack. In the mean time, we discussed about a Dynamics 365 F&O approach/solution as well (which we didn't implement this solution).
+The roles of the team has been decided as;
+Selami Kul - Product Owner
+Celal Unver - Scrum Master
+Mesut Boztas - Development Team - Dynamics Expert
 
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 ## Switch to another file
 
@@ -140,5 +140,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDg0MDg5OF19
+eyJoaXN0b3J5IjpbLTY5MTg3MzQ4N119
 -->
