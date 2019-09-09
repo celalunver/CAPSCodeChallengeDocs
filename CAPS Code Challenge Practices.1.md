@@ -18,12 +18,12 @@ The team has decided to get together everyday twice for Daily Scrum meetings bec
 ## "Code Challenge" Sprint Review Meeting
 The team met on 9th of September Monday at 9:30. The team members already examined the issued Readme.md file for the Code Challenge by the Province. The team has concluded the following decisions and the related action items;
 
-Decision 1 - The solution requested by the Province is a Dynamics based solution. So, the team decided to issue only one solution based on Dynamics 365 F&O.
-Decision 2 - The team for the Code Challenge has been formed as follows;
-- Product Owner - Selami Kul
-- Scrum Master - Celal Unver
-- Development Team - Mesut Boztas (Dynamics Expert)
-- Development Team - Enver Yilmaz (Dynamics Developer - Tester)
+- Decision 1 - The solution requested by the Province is a Dynamics based solution. So, the team decided to issue only one solution based on Dynamics 365 F&O.
+- Decision 2 - The team for the Code Challenge has been formed as follows;
+  * Product Owner - Selami Kul
+  * Scrum Master - Celal Unver
+  * Development Team - Mesut Boztas (Dynamics Expert)
+  * Development Team - Enver Yilmaz (Dynamics Developer - Tester)
 - 
 
 ## "Code Challenge" Daily Scrum Meeting - 1
@@ -113,7 +113,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgxMDc0NTcsLTk0MTM5MDI5OSw1Mz
-AxMjExNiwtMTU2ODgzMzQ1MiwxMjgwNjMzMDAyLDEwMTY3NTQ4
-Ml19
+eyJoaXN0b3J5IjpbMTEzMTYzMjUyMywtOTQxMzkwMjk5LDUzMD
+EyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMTAxNjc1NDgy
+XX0=
 -->
