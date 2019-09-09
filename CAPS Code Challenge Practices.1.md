@@ -32,7 +32,7 @@ The team met on 9th of September Monday at 9:30. The team members already examin
 - Decision 4 - Use cases already been given by the Province. The team decided that these are also our PBI's.
   * Action Item 2 - Mesut Boztas to open a new project under DevOps
   * Action Item 3 - Scrum Master to define PBI's on DevOps environment under new project
-  * Action Item 4 - Mesut Boztas and Enver Yilmaz to discuss all the tasks related with PBIs and share the work
+  * Action Item 4 - Mesut Boztas and Enver Yilmaz to discuss all the tasks related with PBIs, share the work and start the implementation of the Code Challenge
 
 - Decision 5 – After carefully examining the User Stories, the team is confident to implement the Code Challenge using Dynamics F&O infrastructure, except;
   * Discrepancy 1 – After logging out of the Dynamics the Microsoft existing infrastructure will not forward the User to login page, where Etg thinks this is not affecting the main workflow. Though the test case for the last bullet of the User Story #2 (Log Out of the Application) will certainly fail.
@@ -125,7 +125,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjkwMzU1NiwtMTg0MjU0OTMyLDE0ND
+eyJoaXN0b3J5IjpbMTc1NTQyNjM1NSwtMTg0MjU0OTMyLDE0ND
 kzNjk1OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2ODgzMzQ1
 MiwxMjgwNjMzMDAyLDEwMTY3NTQ4Ml19
 -->
