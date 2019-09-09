@@ -1,4 +1,4 @@
-# PROJECT MANAGEMENT PRACTICES
+# PROJECT MANAGEMENT (SCRUM) PRACTICES
 
 ## Pre "Code Challenge" Discussions
 
@@ -13,7 +13,10 @@ The roles of the team has been decided as;
 - Salim Serdar - Development Team - Frontend
 - Tufan Bilge - Development Team - Backend, Frontend
 
+The team has decided to get together everday twice for Daily Scrum meetings because of the t
+
 ## "Code Challenge" Sprint Review Meeting
+
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -153,5 +156,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDYzMzAwMiwxMDE2NzU0ODJdfQ==
+eyJoaXN0b3J5IjpbNzAxMjY1NTk4LDEyODA2MzMwMDIsMTAxNj
+c1NDgyXX0=
 -->
