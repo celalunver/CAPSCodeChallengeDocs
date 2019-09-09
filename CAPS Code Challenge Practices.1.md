@@ -11,6 +11,7 @@ The roles of the team has been decided as;
 - Enver Yilmaz - Development Team - Backend, Dynamics
 - Ender Yilmaz - Development Team - Backend, Dynamics
 - Salim Serdar - Development Team - Frontend
+- Tufan Bilge 
 
 ## Switch to another file
 
@@ -143,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTg5Nzk0Ml19
+eyJoaXN0b3J5IjpbMTAxNjc1NDgyXX0=
 -->
