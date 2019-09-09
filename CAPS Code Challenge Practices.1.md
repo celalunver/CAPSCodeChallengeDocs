@@ -26,7 +26,8 @@ The team met on 9th of September Monday at 9:30. The team members already examin
   * Development Team - Mesut Boztas (Dynamics Expert)
   * Development Team - Enver Yilmaz (Dynamics Developer - Tester)
 
-- Decision 3 - User roles have been discussed by the Team. Finally come to an agreement that new temporary Etg users should be created within Etg domain for the Province to access 
+- Decision 3 - User roles have been discussed by the Team. Finally come to an agreement that new temporary Etg users should be created within Etg domain for the Province to access Dynamics 365 F&O Server maintained by Etg.
+  + Action Item 1 - Scrum Master to facilitate and have new users opened 
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -115,7 +116,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg0Mjk0OTAsMTQ0OTM2OTU5MiwtOT
+eyJoaXN0b3J5IjpbLTE0ODMxMTA2NzAsMTQ0OTM2OTU5MiwtOT
 QxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMw
 MDIsMTAxNjc1NDgyXX0=
 -->
