@@ -24,7 +24,7 @@ The team met on 9th of September Monday at 9:30. The team members already examin
   * Scrum Master - Celal Unver
   * Development Team - Mesut Boztas (Dynamics Expert)
   * Development Team - Enver Yilmaz (Dynamics Developer - Tester)
-- 
+
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -113,7 +113,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTYzMjUyMywtOTQxMzkwMjk5LDUzMD
+eyJoaXN0b3J5IjpbMTQ0OTM2OTU5MiwtOTQxMzkwMjk5LDUzMD
 EyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMTAxNjc1NDgy
 XX0=
 -->
