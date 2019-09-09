@@ -30,8 +30,9 @@ The team met on 9th of September Monday at 9:30. The team members already examin
   + Action Item 1 - Scrum Master to facilitate and have new users opened 
 
 - Decision 4 - Use cases already been given by the Province. The team decided that these are also our PBI's.
-  * Action Item 2 - Mesut Boztas to open a n
-  * Action Item 2 - Scrum Master to define PBI's on DevOps environment
+  * Action Item 2 - Mesut Boztas to open a new project under DevOps
+  * Action Item 3 - Scrum Master to define PBI's on DevOps environment under new project
+  * Action Item 4 - Mesut Boztas and Enver Yilmaz to discuss all the tasks related with PBIs and share the work
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -120,7 +121,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk4NjcxMiwxNDQ5MzY5NTkyLC05ND
+eyJoaXN0b3J5IjpbLTE4NDI1NDkzMiwxNDQ5MzY5NTkyLC05ND
 EzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MDYzMzAw
 MiwxMDE2NzU0ODJdfQ==
 -->
