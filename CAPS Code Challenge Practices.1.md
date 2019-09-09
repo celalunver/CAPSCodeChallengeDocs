@@ -34,6 +34,10 @@ The team met on 9th of September Monday at 9:30. The team members already examin
   * Action Item 3 - Scrum Master to define PBI's on DevOps environment under new project
   * Action Item 4 - Mesut Boztas and Enver Yilmaz to discuss all the tasks related with PBIs and share the work
 
+- Decision 5 – After carefully examining the User Stories, the team is confident to implement the Code Challenge using Dynamics F&O infrastructure, except;
+  * Discrepancy 1 – After logging out of the Dynamics the Microsoft existing infrastructure will not forward the User to login page, where Etg thinks this is not affecting the main workflow. Though the test case for the last bullet of the User Story #2 (Log Out of the Application) will certainly fail.
+  * Update 1 – Etg team thinks a “Planned” status should be added as the 4th label to project status labels (Created, Submitted, Approved)
+
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
 ## "Code Challenge" Sprint Review Meeting
@@ -121,7 +125,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI1NDkzMiwxNDQ5MzY5NTkyLC05ND
-EzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MDYzMzAw
-MiwxMDE2NzU0ODJdfQ==
+eyJoaXN0b3J5IjpbMTQ4MjkwMzU1NiwtMTg0MjU0OTMyLDE0ND
+kzNjk1OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2ODgzMzQ1
+MiwxMjgwNjMzMDAyLDEwMTY3NTQ4Ml19
 -->
