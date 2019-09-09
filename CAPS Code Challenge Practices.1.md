@@ -13,7 +13,7 @@ The roles of the team has been decided as;
 - Salim Serdar - Development Team - Frontend
 - Tufan Bilge - Development Team - Backend, Frontend
 
-The team has decided to get together everyday twice for Daily Scrum meetings because of the time constraint. Team also has decided to have a Sprint Review Meeting on 9th of September Monday morning at 9:30 PST (right after the Code Challenge issued and the team had a ch)
+The team has decided to get together everyday twice for Daily Scrum meetings because of the time constraint. Team also has decided to have a Sprint Review Meeting on 9th of September Monday morning at 9:30 PST (right after the Code Challenge issued and the team had a chance to study Code Challenge requirements)
 
 ## "Code Challenge" Sprint Review Meeting
 
@@ -156,6 +156,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ1MjEwNywxMjgwNjMzMDAyLDEwMT
-Y3NTQ4Ml19
+eyJoaXN0b3J5IjpbLTE1Njg4MzM0NTIsMTI4MDYzMzAwMiwxMD
+E2NzU0ODJdfQ==
 -->
