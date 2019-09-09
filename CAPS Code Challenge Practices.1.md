@@ -13,6 +13,13 @@ The roles of the team has been decided as;
 - Salim Serdar - Development Team - Frontend
 - Tufan Bilge - Development Team - Backend, Frontend
 
+## "Code Challenge" Sprint Review Meeting
+
+## "Code Challenge" Daily Scrum Meeting - 1
+## "Code Challenge" Daily Scrum Meeting - 2
+## "Code Challenge" Daily Scrum Meeting - 2
+
+
 
 
 ## Switch to another file
@@ -146,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE5NTA2OTUsMTAxNjc1NDgyXX0=
+eyJoaXN0b3J5IjpbLTE3MDIzNTMyNTAsMTAxNjc1NDgyXX0=
 -->
