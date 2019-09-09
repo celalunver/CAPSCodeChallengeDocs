@@ -19,12 +19,14 @@ The team has decided to get together everyday twice for Daily Scrum meetings bec
 The team met on 9th of September Monday at 9:30. The team members already examined the issued Readme.md file for the Code Challenge by the Province. The team has concluded the following decisions and the related action items;
 
 - Decision 1 - The solution requested by the Province is a Dynamics based solution. So, the team decided to issue only one solution based on Dynamics 365 F&O.
+
 - Decision 2 - The team for the Code Challenge has been formed as follows;
   * Product Owner - Selami Kul
   * Scrum Master - Celal Unver
   * Development Team - Mesut Boztas (Dynamics Expert)
   * Development Team - Enver Yilmaz (Dynamics Developer - Tester)
 
+- Decision 3 - User roles have been discussed by the Team. Come to an agreement that new temporary Etg users should be created within Etg domain for the Province to access
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -113,7 +115,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTM2OTU5MiwtOTQxMzkwMjk5LDUzMD
-EyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMTAxNjc1NDgy
-XX0=
+eyJoaXN0b3J5IjpbLTE5MDQzMjc1NjMsMTQ0OTM2OTU5MiwtOT
+QxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMw
+MDIsMTAxNjc1NDgyXX0=
 -->
