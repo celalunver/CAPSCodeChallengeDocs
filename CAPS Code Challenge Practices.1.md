@@ -17,7 +17,7 @@ The roles of the team has been decided as;
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
-## "Code Challenge" Daily Scrum Meeting - 2
+## "Code Challenge" Sprint Review Meeting
 
 
 
@@ -153,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIzNTMyNTAsMTAxNjc1NDgyXX0=
+eyJoaXN0b3J5IjpbMTI4MDYzMzAwMiwxMDE2NzU0ODJdfQ==
 -->
