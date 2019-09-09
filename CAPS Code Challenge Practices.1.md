@@ -18,8 +18,8 @@ The team has decided to get together everyday twice for Daily Scrum meetings bec
 ## "Code Challenge" Sprint Review Meeting
 The team met on 9th of September Monday at 9:30. The team members already examined the issued Readme.md file for the Code Challenge by the Province. The team has concluded the following decisions and the related action items;
 
-Decision 1 - The solution re
-
+Decision 1 - The solution requested by the Province is a Dynamics based solution. So, the team decided to issue only one solution based on Dynamics 365 F&O.
+Decision 2 - The team for the Code Challenge ha
 
 ## "Code Challenge" Daily Scrum Meeting - 1
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -108,7 +108,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjQ2NTM1OCwtOTQxMzkwMjk5LDUzMD
-EyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMTAxNjc1NDgy
-XX0=
+eyJoaXN0b3J5IjpbLTE2MTYzNDA2NDIsLTk0MTM5MDI5OSw1Mz
+AxMjExNiwtMTU2ODgzMzQ1MiwxMjgwNjMzMDAyLDEwMTY3NTQ4
+Ml19
 -->
