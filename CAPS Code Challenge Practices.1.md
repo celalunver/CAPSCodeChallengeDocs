@@ -45,6 +45,10 @@ The team met on 9th of September Monday at 9:30. The team members already examin
 Team get together online on Microsoft Teams platform and discussed the.
 
 
+### WORK THAT HAS DONE
+- Project and Model created (Infrastructure - concluded PBI#)
+- Users added to the system
+
 ## "Code Challenge" Daily Scrum Meeting - 2
 ## "Code Challenge" Sprint Review Meeting
 
@@ -131,8 +135,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MzAxODA4LC03NDk0NzY0MzEsLTcxNj
-Q2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1OTIsLTk0MTM5MDI5
-OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMjgwNjMzMDAyLDEwMT
-Y3NTQ4Ml19
+eyJoaXN0b3J5IjpbMzUwOTUyNzM3LDMzNzMwMTgwOCwtNzQ5ND
+c2NDMxLC03MTY0Njk3ODMsLTE4NDI1NDkzMiwxNDQ5MzY5NTky
+LC05NDEzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MD
+YzMzAwMiwxMDE2NzU0ODJdfQ==
 -->
