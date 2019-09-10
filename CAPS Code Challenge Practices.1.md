@@ -36,7 +36,7 @@ The team met on 9th of September Monday at 9:30. The team members already examin
 
 - Decision 5 – After carefully examining the User Stories, the team is confident to implement the Code Challenge using Dynamics F&O infrastructure, except;
   * Issue 1 – The team is not sure whether the User will be redirected to Login page after logging out. This is Microsoft's default behavior and out of Etg's hands. This will be tested and will be discussed further in the upcoming meetings.
-  * Update 1 – Etg team thinks a “Planned” status should be added as the 4th label to project status labels (Created, Submitted, Approved)
+  * Update 1 – Etg team thinks a “Planned” status should be added as the 4th label to project status labels (Created, Submitted, Approved) as it is a requirement set by User Story #6. 
 - Decision 6 – Today's daily scrum meeting cancelled, the team will meet Sep 10 in the morning again.
 - Decision 7 - The tea
 #Conclusion of the Sprint Review Meeting#
@@ -152,8 +152,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MzYxNTE3LDEzNTc4NjMyNjUsMzM3Mz
-AxODA4LC03NDk0NzY0MzEsLTcxNjQ2OTc4MywtMTg0MjU0OTMy
-LDE0NDkzNjk1OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2OD
-gzMzQ1MiwxMjgwNjMzMDAyLDEwMTY3NTQ4Ml19
+eyJoaXN0b3J5IjpbLTI4Nzk0NDc4Miw0MDkzNjE1MTcsMTM1Nz
+g2MzI2NSwzMzczMDE4MDgsLTc0OTQ3NjQzMSwtNzE2NDY5Nzgz
+LC0xODQyNTQ5MzIsMTQ0OTM2OTU5MiwtOTQxMzkwMjk5LDUzMD
+EyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMTAxNjc1NDgy
+XX0=
 -->
