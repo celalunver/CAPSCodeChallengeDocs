@@ -48,6 +48,8 @@ Team get together online on Microsoft Teams platform and discussed the.
 ### WORK THAT HAS DONE
 - Project and Model created (Infrastructure - concluded PBI-1)
 - Temporary Etg Users added to the system and necessary roles/rights have been defined, for the use of Province
+- User login and logout functionality implemented (concluded PBI-)
+- Project creation workflow implemented (concluded )
 
 ## "Code Challenge" Daily Scrum Meeting - 2
 ## "Code Challenge" Sprint Review Meeting
@@ -135,8 +137,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY0NDE1MzMsMzM3MzAxODA4LC03ND
-k0NzY0MzEsLTcxNjQ2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1
-OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMj
-gwNjMzMDAyLDEwMTY3NTQ4Ml19
+eyJoaXN0b3J5IjpbLTgyNzYxNTE2NiwzMzczMDE4MDgsLTc0OT
+Q3NjQzMSwtNzE2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5
+MiwtOTQxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyOD
+A2MzMwMDIsMTAxNjc1NDgyXX0=
 -->
