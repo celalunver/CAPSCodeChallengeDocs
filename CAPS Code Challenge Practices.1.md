@@ -53,15 +53,14 @@ Team get together online on Microsoft Teams platform and discussed the.
 - Project creation workflow implemented and tested (concluded PBI-4)
 - Documentation started, Sprint Review Meeting is added to documentation 
 ### WORK TO BE DONE
-- PBI's 5,6 and 7 will be implemented and unit tested today
-- The team decided to finish the implementation of Code Challenge today. 
-- The whole User stories will be tested back to back today
-- The team decided to put test cases (with screenshots) as well as a User manual to documentation.
+- PBI's 5,6 and 7 will be implemented and unit tested today - Mesut, Enver
+- The team decided to finish the implementation of Code Challenge today - Mesut, Enver 
+- The whole User stories will be tested back to back today - Enver, Celal
+- The team decided to put test cases (with screenshots) as well as a User manual to documentation - Celal
 - The team decided to create a new Workspace under F&O for the Code Challenge project for a User friendly UI - Enver
 
 ### IMPEDIMENTS
 - No known/defined impediment
-
 
 
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -150,8 +149,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMzQ4NjMzLDMzNzMwMTgwOCwtNzQ5ND
-c2NDMxLC03MTY0Njk3ODMsLTE4NDI1NDkzMiwxNDQ5MzY5NTky
-LC05NDEzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MD
-YzMzAwMiwxMDE2NzU0ODJdfQ==
+eyJoaXN0b3J5IjpbMTM1Nzg2MzI2NSwzMzczMDE4MDgsLTc0OT
+Q3NjQzMSwtNzE2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5
+MiwtOTQxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyOD
+A2MzMwMDIsMTAxNjc1NDgyXX0=
 -->
