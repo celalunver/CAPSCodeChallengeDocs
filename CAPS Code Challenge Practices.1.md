@@ -57,7 +57,7 @@ Team get together online on Microsoft Teams platform and discussed the.
 - The team decided to finish the implementation of Code Challenge today. 
 - The whole User stories will be tested back to back today
 - The team decided to put test cases (with screenshots) as well as a User manual to documentation.
-- The team decided to create a new Workspace
+- The team decided to create a new Workspace under F&O for the Code Challenge project for a User friendly UI - Enver
 
 ### IMPEDIMENTS
 - No known/defined impediment
@@ -150,8 +150,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE0MjU0MzgsMzM3MzAxODA4LC03ND
-k0NzY0MzEsLTcxNjQ2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1
-OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMj
-gwNjMzMDAyLDEwMTY3NTQ4Ml19
+eyJoaXN0b3J5IjpbNDcyMzQ4NjMzLDMzNzMwMTgwOCwtNzQ5ND
+c2NDMxLC03MTY0Njk3ODMsLTE4NDI1NDkzMiwxNDQ5MzY5NTky
+LC05NDEzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MD
+YzMzAwMiwxMDE2NzU0ODJdfQ==
 -->
