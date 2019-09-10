@@ -51,6 +51,14 @@ Team get together online on Microsoft Teams platform and discussed the.
 - User login and logout functionality implemented (concluded PBIs 2 and 3)
    * Issue 1 tested and resolved. The system works as described in the User Story #2 
 - Project creation workflow implemented and tested(concluded PBI-4)
+### WORK TO BE DONE
+- PBI's 5,6 and 7 will be implemented and tested today
+- The whole User stories will be tested back to back today
+- 
+### IMPEDIMENTS
+
+
+
 
 ## "Code Challenge" Daily Scrum Meeting - 2
 ## "Code Challenge" Sprint Review Meeting
@@ -138,7 +146,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMwOTUwODgsMzM3MzAxODA4LC03ND
+eyJoaXN0b3J5IjpbLTE1MjU4MTI0MTksMzM3MzAxODA4LC03ND
 k0NzY0MzEsLTcxNjQ2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1
 OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMj
 gwNjMzMDAyLDEwMTY3NTQ4Ml19
