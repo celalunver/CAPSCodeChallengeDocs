@@ -56,7 +56,8 @@ Team get together online on Microsoft Teams platform and discussed the.
 - PBI's 5,6 and 7 will be implemented and unit tested today
 - The team decided to finish the implementation of Code Challenge today. 
 - The whole User stories will be tested back to back today
-- The t
+- The team decided to put test cases (with screenshots) as well as a User manual to documentation.
+- The team decided to create a new Workspace
 
 ### IMPEDIMENTS
 - No known/defined impediment
@@ -149,8 +150,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzI3MjkwMSwzMzczMDE4MDgsLTc0OT
-Q3NjQzMSwtNzE2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5
-MiwtOTQxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyOD
-A2MzMwMDIsMTAxNjc1NDgyXX0=
+eyJoaXN0b3J5IjpbLTIwMzE0MjU0MzgsMzM3MzAxODA4LC03ND
+k0NzY0MzEsLTcxNjQ2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1
+OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMj
+gwNjMzMDAyLDEwMTY3NTQ4Ml19
 -->
