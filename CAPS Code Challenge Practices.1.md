@@ -35,7 +35,7 @@ The team met on 9th of September Monday at 9:30. The team members already examin
   * Action Item 4 - Mesut Boztas and Enver Yilmaz to discuss all the tasks related with PBIs, share the work and start the implementation of the Code Challenge
 
 - Decision 5 – After carefully examining the User Stories, the team is confident to implement the Code Challenge using Dynamics F&O infrastructure, except;
-  * Issue 1 – The team is not sure whether the User will be redirected to Login page after logging out. This is Microsoft's default behavior and Etg.
+  * Issue 1 – The team is not sure whether the User will be redirected to Login page after logging out. This is Microsoft's default behavior and out of Etg's hands. This will be tested and will be discussed further 
   * Update 1 – Etg team thinks a “Planned” status should be added as the 4th label to project status labels (Created, Submitted, Approved)
 
 ## "Code Challenge" Daily Scrum Meeting - 1
@@ -125,8 +125,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc0NzQ3MTksLTc0OTQ3NjQzMSwtNz
-E2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5MiwtOTQxMzkw
-Mjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMT
-AxNjc1NDgyXX0=
+eyJoaXN0b3J5IjpbNTUxMTI5MTUzLC03NDk0NzY0MzEsLTcxNj
+Q2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1OTIsLTk0MTM5MDI5
+OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMjgwNjMzMDAyLDEwMT
+Y3NTQ4Ml19
 -->
