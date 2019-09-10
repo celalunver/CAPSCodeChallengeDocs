@@ -26,10 +26,10 @@ The team met on 9th of September Monday at 9:30. The team members already examin
   * Development Team - Mesut Boztas (Dynamics Expert)
   * Development Team - Enver Yilmaz (Dynamics Developer - Tester)
 
-- Decision 3 - User roles for the Use Cases have been discussed by the Team. Finally come to an agreement that new temporary Etg users should be created within Etg domain for the Province to access Dynamics 365 F&O Server maintained by Etg.
+- Decision 3 - User roles for the User Stories have been discussed by the Team. Finally come to an agreement that new temporary Etg users should be created within Etg domain for the Province to access Dynamics 365 F&O Server maintained by Etg.
   + Action Item 1 - Scrum Master to facilitate and have new users opened 
 
-- Decision 4 - Use cases already been given by the Province. The team decided that these are also our PBI's.
+- Decision 4 - Use cases already been given by the Province as User Stories. The team decided that these are also our PBI's.
   * Action Item 2 - Mesut Boztas to open a new project under DevOps
   * Action Item 3 - Scrum Master to define PBI's on DevOps environment under new project
   * Action Item 4 - Mesut Boztas and Enver Yilmaz to discuss all the tasks related with PBIs, share the work and start the implementation of the Code Challenge
@@ -38,10 +38,11 @@ The team met on 9th of September Monday at 9:30. The team members already examin
   * Issue 1 – The team is not sure whether the User will be redirected to Login page after logging out. This is Microsoft's default behavior and out of Etg's hands. This will be tested and will be discussed further in the upcoming meetings.
   * Update 1 – Etg team thinks a “Planned” status should be added as the 4th label to project status labels (Created, Submitted, Approved)
 - Decision 6 – Today's daily scrum meeting cancelled, the team will meet Sep 10 in the morning again.
+- Decision 7 - The tea
 #Conclusion of the Sprint Review Meeting#
 
 ## "Code Challenge" Daily Scrum Meeting - 1
-Team get together online on Microsoft Teams platform.
+Team get together online on Microsoft Teams platform and discussed the.
 
 
 ## "Code Challenge" Daily Scrum Meeting - 2
@@ -130,8 +131,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQyMTQxMzEsLTc0OTQ3NjQzMSwtNz
-E2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5MiwtOTQxMzkw
-Mjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMT
-AxNjc1NDgyXX0=
+eyJoaXN0b3J5IjpbMzM3MzAxODA4LC03NDk0NzY0MzEsLTcxNj
+Q2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1OTIsLTk0MTM5MDI5
+OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMjgwNjMzMDAyLDEwMT
+Y3NTQ4Ml19
 -->
