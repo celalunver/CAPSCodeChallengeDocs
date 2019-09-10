@@ -15,7 +15,7 @@ The roles of the team has been decided as;
 
 The team has decided to get together everyday twice for Daily Scrum meetings because of the time constraint. Team also has decided to have a Sprint Review Meeting on 9th of September Monday morning at 9:30 PST (right after the Code Challenge issued and the team had a chance to study Code Challenge requirements)
 
-## "Code Challenge" Sprint Review Meeting
+## "Code Challenge" Sprint Review Meeting - Sep 9 - 9:30am
 The team met on 9th of September Monday at 9:30. The team members already examined the issued Readme.md file for the Code Challenge by the Province. The team has concluded the following decisions and the related action items;
 
 - Decision 1 - The solution requested by the Province is a Dynamics based solution. So, the team decided to issue only one solution based on Dynamics 365 F&O. The team will use Microsoft Teams environment for communication, file sharing and meeting scheduling and DevOps environment for Product Backlog, task management and code implementation using Scrum methodology
@@ -41,7 +41,7 @@ The team met on 9th of September Monday at 9:30. The team members already examin
 - Decision 7 - The tea
 #Conclusion of the Sprint Review Meeting#
 
-## "Code Challenge" Daily Scrum Meeting - 1 - Sep 10
+## "Code Challenge" Daily Scrum Meeting - 1 - Sep 10 - 9:30 am
 Team get together online on Microsoft Teams platform and discussed the.
 
 
@@ -52,9 +52,11 @@ Team get together online on Microsoft Teams platform and discussed the.
    * Issue 1 tested and resolved. The system works as described in the User Story #2 
 - Project creation workflow implemented and tested(concluded PBI-4)
 ### WORK TO BE DONE
-- PBI's 5,6 and 7 will be implemented and tested today
+- PBI's 5,6 and 7 will be implemented and unit tested today
+- The team decided to finish the implementation of Code Challenge today. 
 - The whole User stories will be tested back to back today
-- The team decided to finish the implementation of Code Challenge today
+- 
+
 ### IMPEDIMENTS
 - No known/defined impediment
 
@@ -146,8 +148,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzgzNTIwOSwzMzczMDE4MDgsLTc0OT
-Q3NjQzMSwtNzE2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5
-MiwtOTQxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyOD
-A2MzMwMDIsMTAxNjc1NDgyXX0=
+eyJoaXN0b3J5IjpbMjk1ODQ0MTY0LDMzNzMwMTgwOCwtNzQ5ND
+c2NDMxLC03MTY0Njk3ODMsLTE4NDI1NDkzMiwxNDQ5MzY5NTky
+LC05NDEzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MD
+YzMzAwMiwxMDE2NzU0ODJdfQ==
 -->
