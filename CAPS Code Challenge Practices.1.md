@@ -60,7 +60,7 @@ Team get together online on Microsoft Teams platform and discussed the.
 
 ### DECISIONS
 - The team decided to create a new Workspace under F&O for the Code Challenge project for a User friendly UI - Enver
-- The 
+- The team decided to put Create Project/List projects panel and 5 year funding allocation panels on the same page
 
 ### IMPEDIMENTS
 - No known/defined impediment
@@ -152,7 +152,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjYxNTk0NywxMzU3ODYzMjY1LDMzNz
+eyJoaXN0b3J5IjpbMTQ2NDk3NDQ2OCwxMzU3ODYzMjY1LDMzNz
 MwMTgwOCwtNzQ5NDc2NDMxLC03MTY0Njk3ODMsLTE4NDI1NDkz
 MiwxNDQ5MzY5NTkyLC05NDEzOTAyOTksNTMwMTIxMTYsLTE1Nj
 g4MzM0NTIsMTI4MDYzMzAwMiwxMDE2NzU0ODJdfQ==
