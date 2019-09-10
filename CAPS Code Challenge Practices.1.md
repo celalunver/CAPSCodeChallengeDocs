@@ -41,6 +41,9 @@ The team met on 9th of September Monday at 9:30. The team members already examin
 #Conclusion of the Sprint Review Meeting#
 
 ## "Code Challenge" Daily Scrum Meeting - 1
+Team get together online on Microsoft Teams platform.
+
+
 ## "Code Challenge" Daily Scrum Meeting - 2
 ## "Code Challenge" Sprint Review Meeting
 
@@ -127,7 +130,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk1MTMwMDEsLTc0OTQ3NjQzMSwtNz
+eyJoaXN0b3J5IjpbLTEzNTQyMTQxMzEsLTc0OTQ3NjQzMSwtNz
 E2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5MiwtOTQxMzkw
 Mjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyODA2MzMwMDIsMT
 AxNjc1NDgyXX0=
