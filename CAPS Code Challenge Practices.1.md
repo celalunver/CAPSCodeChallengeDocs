@@ -41,7 +41,7 @@ The team met on 9th of September Monday at 9:30. The team members already examin
 - Decision 7 - The tea
 #Conclusion of the Sprint Review Meeting#
 
-## "Code Challenge" Daily Scrum Meeting - 1
+## "Code Challenge" Daily Scrum Meeting - 1 - Sep 10
 Team get together online on Microsoft Teams platform and discussed the.
 
 
@@ -54,9 +54,9 @@ Team get together online on Microsoft Teams platform and discussed the.
 ### WORK TO BE DONE
 - PBI's 5,6 and 7 will be implemented and tested today
 - The whole User stories will be tested back to back today
-- 
+- The team decided to finish the implementation of Code Challenge today
 ### IMPEDIMENTS
-
+- No known/defined impediment
 
 
 
@@ -146,8 +146,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU4MTI0MTksMzM3MzAxODA4LC03ND
-k0NzY0MzEsLTcxNjQ2OTc4MywtMTg0MjU0OTMyLDE0NDkzNjk1
-OTIsLTk0MTM5MDI5OSw1MzAxMjExNiwtMTU2ODgzMzQ1MiwxMj
-gwNjMzMDAyLDEwMTY3NTQ4Ml19
+eyJoaXN0b3J5IjpbMjExNzgzNTIwOSwzMzczMDE4MDgsLTc0OT
+Q3NjQzMSwtNzE2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5
+MiwtOTQxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyOD
+A2MzMwMDIsMTAxNjc1NDgyXX0=
 -->
