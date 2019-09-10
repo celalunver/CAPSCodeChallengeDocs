@@ -50,12 +50,13 @@ Team get together online on Microsoft Teams platform and discussed the.
 - Temporary Etg Users added to the system and necessary roles/rights have been defined, for the use of Province
 - User login and logout functionality implemented (concluded PBIs 2 and 3)
    * Issue 1 tested and resolved. The system works as described in the User Story #2 
-- Project creation workflow implemented and tested(concluded PBI-4)
+- Project creation workflow implemented and tested (concluded PBI-4)
+- Documentation started, Sprint Review Meeting is added to documentation 
 ### WORK TO BE DONE
 - PBI's 5,6 and 7 will be implemented and unit tested today
 - The team decided to finish the implementation of Code Challenge today. 
 - The whole User stories will be tested back to back today
-- 
+- The t
 
 ### IMPEDIMENTS
 - No known/defined impediment
@@ -148,8 +149,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODQ0MTY0LDMzNzMwMTgwOCwtNzQ5ND
-c2NDMxLC03MTY0Njk3ODMsLTE4NDI1NDkzMiwxNDQ5MzY5NTky
-LC05NDEzOTAyOTksNTMwMTIxMTYsLTE1Njg4MzM0NTIsMTI4MD
-YzMzAwMiwxMDE2NzU0ODJdfQ==
+eyJoaXN0b3J5IjpbLTc3MzI3MjkwMSwzMzczMDE4MDgsLTc0OT
+Q3NjQzMSwtNzE2NDY5NzgzLC0xODQyNTQ5MzIsMTQ0OTM2OTU5
+MiwtOTQxMzkwMjk5LDUzMDEyMTE2LC0xNTY4ODMzNDUyLDEyOD
+A2MzMwMDIsMTAxNjc1NDgyXX0=
 -->
